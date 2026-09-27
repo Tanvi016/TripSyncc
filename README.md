@@ -32,4 +32,4 @@ npm run build      # production build (registers the offline service worker)
 4. **Choose this** → **Update my trip** → **Your trip is recovered** — itinerary, finance, group, documents and the assistant all update from one shared state.
 5. Try the Assistant (travel-only, with typing indicator), the **online/offline pulse** (tap it to simulate offline), and the document vault upload.
 
-All data is mock/demo data. All prices in INR (₹). UI is English.
+ All prices in INR (₹). UI is English.
